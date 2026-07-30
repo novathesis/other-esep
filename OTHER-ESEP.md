@@ -1,8 +1,8 @@
-# Abstract: other-esep-novathesis-vA.B.C
+# Abstract: novathesis-other-esep-v8.0.0
 
-This is a customized LaTeX template for theses and reports at **Escola Superior de Enfermagem do Porto (ESEP)**, following the most recent [ESEP guidelines (in Portuguese)](https://www.esenf.pt/fotos/editorA.B.C/uteis/SAAE/normas_elaboracao.pdf). 
+This is a customized LaTeX template for theses and reports at **Escola Superior de Enfermagem do Porto (ESEP)**, following the most recent [ESEP guidelines (in Portuguese)](https://www.esenf.pt/fotos/editor2/uteis/SAAE/normas_elaboracao.pdf). 
 
-This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (vA.B.C)**, trimmed down and optimized to provide ESEP students with a streamlined experience, meeting ESEP's academic formatting standards without the complexity of the original multi-institution template. 
+This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (v8.0.0)**, trimmed down and optimized to provide ESEP students with a streamlined experience, meeting ESEP's academic formatting standards without the complexity of the original multi-institution template. 
 
 ### Key Features:
 
